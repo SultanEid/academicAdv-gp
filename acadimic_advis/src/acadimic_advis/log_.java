@@ -1,3 +1,4 @@
+
 package acadimic_advis;
 
 import java.awt.EventQueue;
@@ -57,7 +58,8 @@ public class log_ {
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				txtAde.setText("sultan");
-				txtAde.setBackground(java.awt.SystemColor.black );
+				//txtAde.setBackground(java.awt.SystemColor.black );
+				txtAde.setBackground(java.awt.SystemColor.blue );
 			}
 		});
 		frame.getContentPane().add(btnNewButton, BorderLayout.CENTER);
