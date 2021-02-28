@@ -1,6 +1,6 @@
 # academicAdv-gp
 
-![example workflow](https://github.com/sultaneid/academicAdv-gp/actions/workflows/maven.yml/badge.svg)
+![example workflow](https://github.com/sultaneid/academicAdv-gp/actions/workflows/maven.yml/badge.svg)              Travis Build: [![Build Status](https://travis-ci.com/SultanEid/academicAdv-gp.svg?branch=main)](https://travis-ci.com/SultanEid/academicAdv-gp)
 
 
 Graduation Project for group P2G10
