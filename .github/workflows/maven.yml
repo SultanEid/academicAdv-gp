@@ -22,9 +22,5 @@ jobs:
         java-version: 1.8
     - name: Build with Maven
       run: mvn -B package --file academic-adviser/pom.xml
-    - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@4.0.0
-      with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: build # The folder the action should deploy.
+    
 
