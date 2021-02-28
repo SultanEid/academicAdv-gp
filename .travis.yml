@@ -1,3 +1,3 @@
 script:
   - cd academic-adviser
-  - mvn
+  - mvn package
