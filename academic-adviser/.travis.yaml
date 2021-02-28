@@ -1,4 +1,0 @@
-script:
-  - cd academic-adviser
-  - mvn
- 
