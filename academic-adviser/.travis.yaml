@@ -1,3 +1,6 @@
+language: java
+  exclude:
+   - ant
 script:
   - cd academic-adviser
   - mvn
