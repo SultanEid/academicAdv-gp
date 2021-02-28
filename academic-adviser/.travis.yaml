@@ -1,0 +1,6 @@
+exclude:
+  - java
+script:
+  - cd academic-adviser
+  - mvn
+ 
